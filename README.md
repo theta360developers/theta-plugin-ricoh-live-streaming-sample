@@ -1,4 +1,4 @@
-#Important Note: RICOH Cloud No longer available in US. Use another signalling server
+# Important Note: RICOH Cloud No longer available in US. Use another signalling server
 
 This might help.  https://github.com/ricohapi/theta-plugin-webrtc-sample/blob/master/app/src/main/java/com/theta360/pluginapplication/webrtc/sample/network/SignalingServer.java
 
